@@ -39,7 +39,9 @@ Finalmente, se espera que este prototipo no solo proporcione conocimientos teór
 </p>
 </div>                                                                                     
 </td>
-
+</table>
+</div>
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
