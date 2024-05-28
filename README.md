@@ -24,7 +24,7 @@
 <td width="50%">
 <h3 align="center">PROTOTIPO WEB PARA FOMENTAR BUENAS PRÁCTICAS EN CIBERSEGURIDAD CON GAMIFICACIÓN PARA LA UNIVERSIDAD DE CUNDINAMARCA</h3>
 <div align="center">
-<a href="https://github.com/salo-0mg/proyectoCiberseguridadGamificacion" target="_blank"><img src="https://imgur.com/9vgryQ0" width="400" alt="PROTOTIPO WEB PARA FOMENTAR BUENAS PRÁCTICAS EN CIBERSEGURIDAD CON GAMIFICACIÓN PARA LA UNIVERSIDAD DE CUNDINAMARCA"></a>
+<a href="https://github.com/salo-0mg/proyectoCiberseguridadGamificacion" target="_blank"><img src="https://i.imgur.com/9vgryQ0.png" width="400" alt="PROTOTIPO WEB PARA FOMENTAR BUENAS PRÁCTICAS EN CIBERSEGURIDAD CON GAMIFICACIÓN PARA LA UNIVERSIDAD DE CUNDINAMARCA"></a>
 <p>
 <a href="https://github.com/salo-0mg/proyectoCiberseguridadGamificacion" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
