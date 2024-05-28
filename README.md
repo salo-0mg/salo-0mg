@@ -15,8 +15,9 @@
 ![PHYTON](https://badgen.net/badge/icon/Phyton?<>&label)
 ![NodeJS](https://badgen.net/badge/icon/NodeJS??icon=npm&label)
 ![ExpressJS](https://badgen.net/badge/icon/ExpressJS??icon=npm&label)
-![Docker](https://badgen.net/badge/icon/Docker?icon=docker&label)
-![](https://img.shields.io/badge/JAVA-8A2BE2)
+![DOCKER](https://badgen.net/badge/icon/Docker?icon=docker&label)
+![SQL](https://badgen.net/badge/icon/SQL?icon=docker&label)
+![MongoDB](https://badgen.net/badge/icon/MongoDB?icon=docker&label)
 
 ## About me
 
