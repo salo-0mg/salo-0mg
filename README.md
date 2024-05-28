@@ -4,7 +4,7 @@
 
 <img src="https://media.licdn.com/dms/image/D4E16AQHZ7frbEgrZkg/profile-displaybackgroundimage-shrink_350_1400/0/1715127273014?e=1722470400&v=beta&t=3kKvVOc08MSRnkKkdXtJX5ZoMbiRFFFICfOTlRucWtg">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/salo-0mg)
+[![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
 
