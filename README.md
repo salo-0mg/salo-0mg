@@ -7,8 +7,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
 ![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
+![JAVA](https://img.shields.io/badge/JAVA-8A2BE2)
 
-## Sobre mi
+## About me
 
 - 💻 Ninth-semester Systems Engineering student
 - 🧑‍💻 Fullstack Developer
