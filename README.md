@@ -15,7 +15,7 @@
 - 📖 Universidad de Cundinamarca
 - 🗽 Certified B2 English
 - 👦 [Linkedin](https://www.linkedin.com/in/salom%C3%B3n-forero-079895216/)
-- 💼 Ongoing project [Graduation Project](https://proyectoapi-ciberseguridadgamificacion.onrender.com) [Repository](https://github.com/salo-0mg/proyectoCiberseguridadGamificacion)
+- 💼 Ongoing project [Graduation Project](https://proyectoapi-ciberseguridadgamificacion.onrender.com) ([Repository](https://github.com/salo-0mg/proyectoCiberseguridadGamificacion))
 
 <br>
 
