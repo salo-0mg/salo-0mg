@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
 ![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
-![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
 ![JAVA](https://badgen.net/badge/icon/Java?icon=java&label)
 ![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript?icon=java&label)
