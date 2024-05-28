@@ -9,7 +9,7 @@
 ![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
 ![JAVA](https://badgen.net/badge/icon/Java?icon=java&label)
-![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript)
+![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript?icon=java&label)
 ![HTML5](https://badgen.net/badge/icon/HTML?<>&label)
 ![CSS](https://img.shields.io/badge/JAVA-8A2BE2)
 ![PHYTON](https://img.shields.io/badge/JAVA-8A2BE2)
