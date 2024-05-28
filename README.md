@@ -27,6 +27,9 @@
 - 👦 [Linkedin](https://www.linkedin.com/in/salom%C3%B3n-forero-079895216/)
 - 💼 Ongoing project [Graduation Project](https://proyectoapi-ciberseguridadgamificacion.onrender.com) ([Repository](https://github.com/salo-0mg/proyectoCiberseguridadGamificacion))
 
+## Resume
+
+<p align="justify">
 🎓 Ninth-semester Systems Engineering student 🖥️ with strong knowledge in programming and agile development methodologies 💡. I have experience and proficiency in various programming languages, including Java ☕, Python 🐍, C++ 🖥️, C, HTML5 🌐, CSS, and JavaScript 📜, as well as in managing database engines such as Oracle Apex, MongoDB 🍃, and MySQL 🗃️.
 
 In my academic projects, I have applied agile methodologies such as Scrum 🔄 and RUP 📈, adapting them to various types of software development 🛠️. I have collaborated on research projects aimed at solving real-world problems 🌍, ranging from elderly surveillance 👵 to cybersecurity 🔒.
@@ -34,7 +37,7 @@ In my academic projects, I have applied agile methodologies such as Scrum 🔄 a
 My experience includes the development of embedded systems 🤖, interactive web applications 💻, and high-performance projects 🚀, using languages such as C and C++, as well as frontend technologies like HTML5, CSS, and JavaScript. Additionally, I have worked on data handling and statistical analysis with Python, using libraries such as Pandas 🐼.
 
 As a member of multifunctional and self-organized teams 🤝, I contribute to the team's success through my versatility and ability to understand challenges from multiple perspectives 🔄. My professional aspirations include continuing to improve my programming skills and developing new tools for companies or independent projects 🌱, with a focus on cybersecurity and data analysis 🛡️📊.
-
+</p>
 
 <br>
 
