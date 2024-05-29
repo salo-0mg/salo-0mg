@@ -11,7 +11,7 @@
 ![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript?icon=java&label)
 ![HTML5](https://badgen.net/badge/icon/HTML?<>&label)
 ![CSS](https://badgen.net/badge/icon/CSS?<>&label)
-![PHYTON](https://badgen.net/badge/icon/Phyton?<>&label)
+![PHYTON](https://badgen.net/badge/icon/Phyton?icon=pypi&label)
 ![NodeJS](https://badgen.net/badge/icon/NodeJS??icon=npm&label)
 ![ExpressJS](https://badgen.net/badge/icon/ExpressJS??icon=npm&label)
 ![DOCKER](https://badgen.net/badge/icon/Docker?icon=docker&label)
