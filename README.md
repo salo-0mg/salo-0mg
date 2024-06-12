@@ -29,7 +29,7 @@
 
 ## Resume
 
-<p align="justify">🎓 Ninth-semester Systems Engineering student 🖥️ with strong knowledge in programming and agile development methodologies 💡. I have experience and proficiency in various programming languages, including Java ☕, Python 🐍, C++ 🖥️, C, HTML5 🌐, CSS, and JavaScript 📜, as well as in managing database engines such as Oracle Apex, MongoDB 🍃, and MySQL 🗃️.
+<p align="justify">🎓 Systems Engineering 🖥️ with strong knowledge in programming and agile development methodologies 💡. I have experience and proficiency in various programming languages, including Java ☕, Python 🐍, C++ 🖥️, C, HTML5 🌐, CSS, and JavaScript 📜, as well as in managing database engines such as Oracle Apex, MongoDB 🍃, and MySQL 🗃️.
 
 In my academic projects, I have applied agile methodologies such as Scrum 🔄 and RUP 📈, adapting them to various types of software development 🛠️. I have collaborated on research projects aimed at solving real-world problems 🌍, ranging from elderly surveillance 👵 to cybersecurity 🔒.
 
