@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/salom%C3%B3n-forero-079895216/">Salo</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/salom%C3%B3n-forero-079895216/">Salo</a>👋</h1>
 </div>
 
 <img src="https://media.licdn.com/dms/image/D4E16AQHZ7frbEgrZkg/profile-displaybackgroundimage-shrink_350_1400/0/1715127273014?e=1722470400&v=beta&t=3kKvVOc08MSRnkKkdXtJX5ZoMbiRFFFICfOTlRucWtg">
