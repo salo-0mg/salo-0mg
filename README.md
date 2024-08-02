@@ -20,7 +20,7 @@
 
 ## About me
 
-- 💻 Ninth-semester Systems Engineering student
+- 💻 Systems Engineering
 - 🧑‍💻 Fullstack Developer
 - 📖 Universidad de Cundinamarca
 - 🗽 Certified B2 English
