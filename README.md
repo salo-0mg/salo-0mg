@@ -4,10 +4,13 @@
 
 <img src="https://media.licdn.com/dms/image/D4E16AQHZ7frbEgrZkg/profile-displaybackgroundimage-shrink_350_1400/0/1715127273014?e=1727913600&v=beta&t=vr5pCzO13e5xcGMRMSA59mXThseFQu6V0ttzMXx3Zck">
 
+<div align="center">
 [![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
 ![GitHub Views](https://visitor-badge.laobi.icu/badge?page_id=salo-0mg)
 ![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
+</div>
+
 ![JAVA](https://badgen.net/badge/icon/Java?icon=java&label)
 ![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript?icon=java&label)
 ![HTML5](https://badgen.net/badge/icon/HTML?<>&label)
