@@ -12,6 +12,10 @@
 ![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
 
 </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 ![JAVA](https://badgen.net/badge/icon/Java?icon=java&label)
 ![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript?icon=java&label)
