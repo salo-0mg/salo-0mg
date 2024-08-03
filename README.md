@@ -33,7 +33,7 @@
 
 In my academic projects, I have applied agile methodologies such as Scrum 🔄 and RUP 📈, adapting them to various types of software development 🛠️. I have collaborated on research projects aimed at solving real-world problems 🌍, ranging from elderly surveillance 👵 to cybersecurity 🔒.
 
-My experience includes the development of embedded systems 🤖, interactive web applications 💻, and high-performance projects 🚀, using languages such as C and C++, as well as frontend technologies like HTML5, CSS, and JavaScript. Additionally, I have worked on data handling and statistical analysis with Python, using libraries such as Pandas 🐼.
+My experience includes the development of embedded systems 🤖, interactive web applications 💻, and high-performance projects 🚀, using languages such as C and C++, as well as frontend technologies like HTML5, CSS, and JavaScript. Additionally, I have worked on data handling and statistical analysis with Python, using libraries such as Pandas 🐼. I have also used Node.js with the Express.js framework for back-end development 🔧.
 
 As a member of multifunctional and self-organized teams 🤝, I contribute to the team's success through my versatility and ability to understand challenges from multiple perspectives 🔄. My professional aspirations include continuing to improve my programming skills and developing new tools for companies or independent projects 🌱, with a focus on cybersecurity and data analysis 🛡️📊.
 </p>
