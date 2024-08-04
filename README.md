@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
+  [![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
   ![GitHub Views](https://visitor-badge.laobi.icu/badge?page_id=salo-0mg)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
   ![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
