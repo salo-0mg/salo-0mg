@@ -15,8 +15,10 @@
 
 <div align="center">
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=java,javascript,python,c++,html,css" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,vscode,git,github,figma" />
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c++,html,css&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,vscode,git,github,figma&theme=dark)](https://skillicons.dev)
+
   <br>
 </div>
 
