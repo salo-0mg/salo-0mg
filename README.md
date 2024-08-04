@@ -15,20 +15,9 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,vscode,git,github,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,c,mongodb,mysql,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,c,mongodb,mysql,docker,vscode,git,github,figma" />
   <br>
 </div>
-
-![JAVA]()
-![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript?icon=java&label)
-![HTML5](https://badgen.net/badge/icon/HTML?<>&label)
-![CSS](https://badgen.net/badge/icon/CSS?<>&label)
-![PHYTON](https://badgen.net/badge/icon/Phyton?icon=pypi&label)
-![NodeJS](https://badgen.net/badge/icon/NodeJS??icon=npm&label)
-![ExpressJS](https://badgen.net/badge/icon/ExpressJS??icon=npm&label)
-![DOCKER](https://badgen.net/badge/icon/Docker?icon=docker&label)
-![SQL](https://badgen.net/badge/icon/SQL?icon=docker&label)
-![MongoDB](https://badgen.net/badge/icon/MongoDB?icon=docker&label)
 
 ## About me
 
