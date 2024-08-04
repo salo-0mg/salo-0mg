@@ -14,6 +14,7 @@
 </div>
 
 <div align="center">
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,c,mongodb,mysql,docker,vscode,git,github,figma" />
   <br>
