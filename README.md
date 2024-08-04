@@ -6,18 +6,20 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
-![GitHub Views](https://visitor-badge.laobi.icu/badge?page_id=salo-0mg)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
-![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
+  [![GitHub followers](https://img.shields.io/github/followers/salo-0mg?style=social)](https://github.com/salo-0mg)
+  ![GitHub Views](https://visitor-badge.laobi.icu/badge?page_id=salo-0mg)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
+  ![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
 
 </div>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,c,mongodb,mysql,vscode,git,github,figma" />
+  <br>
 </div>
 
-![JAVA](https://badgen.net/badge/icon/Java?icon=java&label)
+![JAVA]()
 ![JAVA SCRRIPT](https://badgen.net/badge/icon/JavaSript?icon=java&label)
 ![HTML5](https://badgen.net/badge/icon/HTML?<>&label)
 ![CSS](https://badgen.net/badge/icon/CSS?<>&label)
