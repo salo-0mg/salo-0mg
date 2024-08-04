@@ -10,7 +10,7 @@
   ![GitHub Views](https://visitor-badge.laobi.icu/badge?page_id=salo-0mg)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/salo-0mg/proyectoCiberseguridadGamificacion)
   ![Discord Shield](https://discordapp.com/api/guilds/629887277207650336/widget.png?style=shield)
-
+<div></div>
 </div>
 <br>
 <div align="center">
