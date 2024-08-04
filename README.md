@@ -15,7 +15,7 @@
 <div align="center">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
   
-  ![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c,html,css,nodejs,express,mongodb,mysql,docker,vscode,git,github,figma&theme=dark)
+  ![Skills](https://skillicons.dev/icons?i=java,js,python,cpp,html,css,nodejs,express,mongodb,mysql,docker,vscode,idea,git,github,figma,kali,windows,&theme=dark)
 </div>
 
 ## About me
