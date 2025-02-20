@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/salom%C3%B3n-forero-079895216/">Salo</a>👋</h1>
 </div>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHZ7frbEgrZkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715127273014?e=1740009600&v=beta&t=r8wrxrLVqrvSWi9PmT3tESecgqsfqNXQ7HEArgMNYf4">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHZ7frbEgrZkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715127273014?e=1745452800&v=beta&t=VYlEs6AORwdSWkOPTwCInG7Lmwa-i3Y9ayqJHp8Rqdg">
 
 <div align="center">
   
